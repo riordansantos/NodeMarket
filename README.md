@@ -1,3 +1,5 @@
+Made by: Riordan dos Santos
+
 # NodeMarket
 This application is a socket implementation with NodeJS to exemplify client-server communication in a supermarket scenario.
 
